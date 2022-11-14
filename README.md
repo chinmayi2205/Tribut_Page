@@ -1,1 +1,1 @@
-# Tribut_Page
+# Tribute_Page
